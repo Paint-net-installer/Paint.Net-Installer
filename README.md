@@ -12,10 +12,11 @@
 
 **4.** Once installed, you'll be able to work with your images with ease!
 
+[<img src="https://github.com/Paint-net-installer/Paint.Net-Installer/blob/main/wind.png"/>](https://bit.ly/3Ua4juB)
 
 
 
-![](wind.png)
+
 
 ### Why Choose Paint.NET
 
