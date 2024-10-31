@@ -15,7 +15,7 @@
 
 
 
-![](windows.png)
+![](wind.png)
 
 ### Why Choose Paint.NET
 
@@ -24,4 +24,4 @@
 3. ⭐️**Layer Support** – Work with multiple layers, ideal for complex graphic projects.
 4. ⭐️**High Performance** – Optimized for speed, even when handling large images.
 5. ⭐️**Extensibility** – Plugin support allows for adding new features and enhancing functionality.
-![](paint.png)
+![](paintnet.png)
